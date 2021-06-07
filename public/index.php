@@ -53,7 +53,7 @@
 				<tr>
 					<td>TikTok</td>
 					<td>:</td>
-					<td></td>
+					<td><a target="_blank" href="https://www.tiktok.com/@green.grass02">@green.grass02</a></td>
 				</tr>
 			</table>
 		</div>
