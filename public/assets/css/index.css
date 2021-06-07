@@ -1,4 +1,28 @@
+body {
+	background-color: #000;
+}
 #logo {
 	max-width: 200px;
 	border: 1px solid #000;
+	margin: auto;
+}
+#main-cage {
+	background-color: #fff;
+	padding: 30px;
+	margin: 100px auto 100px auto;
+	width: 60%;
+	text-align: center;
+	border: 1px solid #fff;
+	border-radius: 5px;
+}
+#table-cage {
+	border: 1px solid #fff;
+	margin: auto;
+	width: 40%;
+}
+#table-cage table {
+	margin: auto;
+}
+.cdesc {
+	text-align: justify;
 }
