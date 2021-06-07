@@ -24,11 +24,32 @@
 			<p>Our business is cost driven, because we need to gather the resources at the beginning of steps. This takes a lot of money and to build trust between us and farmers, we need to assure that we have enough funding to continue distribute their vegetables, fruits, etc.</p>
 		</div>
 		<div id="table-cage">
-			<table>
+			<h2>Contacts and Social Media Accounts</h2>
+			<table style="text-align:left;">
 				<tr>
 					<td>Facebook</td>
 					<td>:</td>
-					<td>Green Grass</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Twitter</td>
+					<td>:</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>WhatsApp</td>
+					<td>:</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Instagram</td>
+					<td>:</td>
+					<td><a target="_blank" href="https://www.instagram.com/green.grass02">green.grass02</a></td>
+				</tr>
+				<tr>
+					<td>TikTok</td>
+					<td>:</td>
+					<td></td>
 				</tr>
 			</table>
 		</div>
