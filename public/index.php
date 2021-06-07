@@ -13,7 +13,7 @@
 		<h1>Welcome to Green Grass!</h1>
 		<div class="cdesc">
 			<h3>Customer Segments</h3>
-			<p>Our important customers are large party like hotel, catering, etc.We have general customerwho order for private purpose like housewife, general teens, etc.</p>
+			<p>Our important customers are large party like hotel, catering, etc. We also have general customer who order for private purpose like housewife, general teens, etc.</p>
 		</div>
 		<div class="cdesc">
 			<h3>Key Partners</h3>
