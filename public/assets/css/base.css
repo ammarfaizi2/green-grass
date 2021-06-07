@@ -8,3 +8,8 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+.btn {
+	min-width: 70px;
+	padding: 10px 20px 10px 20px;
+	cursor: pointer;
+}

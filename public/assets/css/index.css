@@ -25,3 +25,10 @@
 .cdesc {
 	text-align: justify;
 }
+.idxbtn {
+	width: 200px;
+	margin: 20px 5px 0 5px;
+}
+.idxbtn-cg {
+	display: inline-block;
+}

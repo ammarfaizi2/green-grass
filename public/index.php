@@ -25,6 +25,14 @@ require __DIR__."/../init/web.php";
 		<div>
 			<img id="logo" src="assets/img/green_grass_logo.png"/>
 		</div>
+		<div>
+			<div class="idxbtn-cg">
+				<a href="register.php?w=<?= rstr(64) ?>"><button class="btn idxbtn">Create an account</button></a>
+			</div>
+			<div class="idxbtn-cg">
+				<a href="login.php?w=<?= rstr(64) ?>"><button class="btn idxbtn">Login</button></a>
+			</div>
+		</div>
 		<h1>Welcome to Green Grass!</h1>
 		<div class="cdesc">
 			<h3>Customer Segments</h3>
