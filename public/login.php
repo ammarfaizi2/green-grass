@@ -21,6 +21,7 @@ require __DIR__."/../init/web.php";
 </head>
 <body>
 	<div id="login-cg">
+		<a href="index.php?ref=login&amp;w=<?= rstr(32) ?>"><button class="btn">Back to Home</button></a>
 		<marquee><h2>Green Grass is the solution!</h2></marquee>
 		<div>
 			<form action="javascript:void(0);" id="login-form">
