@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Green Grass</title>
-	<link rel="stylesheet" type="text/css" href="assets/css/index.css"/>
+	<link rel="stylesheet" type="text/css" href="assets/css/index.css?w=<?= time() ?>"/>
 </head>
 <body>
 	<div id="main-cage">
