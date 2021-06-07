@@ -1,0 +1,25 @@
+#logo {
+	max-width: 200px;
+	border: 1px solid #000;
+	margin: auto;
+}
+#login-cg {
+	border: 1px solid #fff;
+	width: 60%;
+	padding: 30px;
+	background-color: #fff;
+	margin: 70px auto 150px auto;
+	text-align: center;
+}
+#login-form {
+	width: 70%;
+	margin: auto auto 40px auto;
+	padding: 20px 5px 20px 5px;
+	border: 1px solid #000;
+}
+.input-cg {
+	margin: 15px 0 15px 0;
+}
+.input-label {
+	margin: 5px 0 5px 0;
+}
