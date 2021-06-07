@@ -6,8 +6,8 @@ require __DIR__."/../init/web.php";
 <html>
 <head>
 	<title>Green Grass</title>
+<?php loadView("head") ?>
 	<link rel="stylesheet" type="text/css" href="assets/css/index.css?w=<?= time() ?>"/>
-	<meta charset="utf-8"/>
 	<meta property="og:locale" content="en_US"/>
 	<meta property="og:url" content="<?= BASE_URL ?>"/>
 	<meta property="og:title" content="Green Grass"/>
