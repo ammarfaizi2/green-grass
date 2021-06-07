@@ -29,6 +29,7 @@ body {
 	text-align: justify;
 }
 a {
+	color: blue;
 	text-decoration: none;
 }
 a:hover {
