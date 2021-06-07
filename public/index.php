@@ -57,6 +57,17 @@
 				</tr>
 			</table>
 		</div>
+		<div class="cdesc">
+			<h3>Who are behind the Green Grass?</h3>
+			<table>
+				<tr><td>1.</td><td>Ammar (CEO/Founder)</td></tr>
+				<tr><td>2.</td><td>Pramudia (CO-Founder)</td></tr>
+				<tr><td>3.</td><td>Farezky (Business Analysis)</td></tr>
+				<tr><td>4.</td><td>Nayaqiza (Marketing)</td></tr>
+				<tr><td>5.</td><td>Faturrahman (Production Review)</td></tr>
+				<tr><td>6.</td><td>Ari (Quality Assurance)</td></tr>
+			</table>
+		</div>
 	</div>
 </body>
 </html>
