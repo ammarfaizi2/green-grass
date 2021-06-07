@@ -13,6 +13,11 @@ require __DIR__."/../init/web.php";
 	<meta property="og:title" content="Green Grass"/>
 	<meta property="og:description" content="Our business is cost driven, because we need to gather the resources at the beginning of steps. This takes a lot of money and to build trust between us and farmers, we need to assure that we have enough funding to continue distribute their vegetables, fruits, etc."/>
 	<meta property="og:image" content="<?= BASE_URL ?>/assets/img/green_grass_logo.png"/>
+	<meta name="twitter:card" content="Our business is cost driven, because we need to gather the resources at the beginning of steps. This takes a lot of money and to build trust between us and farmers, we need to assure that we have enough funding to continue distribute their vegetables, fruits, etc."/>
+	<meta name="twitter:site" content="@greengrass"/>
+	<meta name="twitter:title" content="Green Grass"/>
+	<meta name="twitter:description" content="Our business is cost driven, because we need to gather the resources at the beginning of steps. This takes a lot of money and to build trust between us and farmers, we need to assure that we have enough funding to continue distribute their vegetables, fruits, etc."/>
+	<meta name="twitter:image" content="<?= BASE_URL ?>/assets/img/green_grass_logo.png"/>
 </head>
 <body>
 	<div id="main-cage">
@@ -64,7 +69,7 @@ require __DIR__."/../init/web.php";
 				<tr>
 					<td>WhatsApp</td>
 					<td>:</td>
-					<td></td>
+					<td><a target="_blank" href="http://wa.me/+6288801435018">+6288801435018</a></td>
 				</tr>
 				<tr>
 					<td>Instagram</td>
