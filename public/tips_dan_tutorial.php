@@ -12,7 +12,7 @@ require __DIR__."/../init/web.php";
 	<meta property="og:url" content="<?= BASE_URL ?>"/>
 	<meta property="og:title" content="Green Grass"/>
 	<meta property="og:description" content="Tips dan Tutorial dari Green Grass"/>
-	<meta property="og:image" content="<?= BASE_URL ?>/assets/img/green_grass_logo.png"/>
+	<meta property="og:image" content="<?= BASE_URL ?>/assets/img/sup_iga.jpg"/>
 	<meta name="twitter:card" content="Tips dan Tutorial dari Green Grass"/>
 	<meta name="twitter:site" content="@greengrass"/>
 	<meta name="twitter:title" content="Green Grass"/>
