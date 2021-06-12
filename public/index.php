@@ -61,18 +61,21 @@ require __DIR__."/../init/web.php";
 				<tr><td>6.</td><td>Ari (Quality Assurance)</td></tr>
 			</table>
 		</div>
+		<div>
+			<a href="tips_n_tutorial.php"><h1>Tips And Tutorial</h1></a>
+		</div>
 		<div id="table-cage">
 			<h2>Contacts and Social Media Accounts</h2>
 			<table style="text-align:left;">
 				<tr>
 					<td>Facebook</td>
 					<td>:</td>
-					<td></td>
+					<td><a target="_blank" href="https://web.facebook.com/GG-Company-GreenGrass99-100309798958971?_rdc=1&_rdr">GG Company - GreenGrass99</a></td>
 				</tr>
 				<tr>
 					<td>Twitter</td>
 					<td>:</td>
-					<td></td>
+					<td><a target="_blank" href="https://twitter.com/green_grass99">@green_grass99</a></td>
 				</tr>
 				<tr>
 					<td>WhatsApp</td>
