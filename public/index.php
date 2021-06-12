@@ -63,6 +63,7 @@ require __DIR__."/../init/web.php";
 		</div>
 		<div>
 			<a href="tips_dan_tutorial.php"><h1>Tips And Tutorial</h1></a>
+			<a href="tips_dan_tutorial2.php"><h1>Tips And Tutorial 2</h1></a>
 		</div>
 		<div id="table-cage">
 			<h2>Contacts and Social Media Accounts</h2>
