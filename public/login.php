@@ -26,7 +26,7 @@ require __DIR__."/../init/web.php";
 		<div>
 			<form action="javascript:void(0);" id="login-form">
 					<h1>Login to Green Grass</h1>
-					<img id="logo" src="assets/img/green_grass_logo.png"/>
+					<img id="logo" style="border-radius:100%;background:#fff;" src="assets/img/green_grass_logo.png"/>
 					<div class="input-cg">
 						<div class="input-label">Username or E-mail:</div>
 						<div><input type="text" name="username" required="1"/></div>

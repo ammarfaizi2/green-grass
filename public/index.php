@@ -23,7 +23,7 @@ require __DIR__."/../init/web.php";
 	<div id="main-cage">
 		<marquee><h2>Green Grass is the solution!</h2></marquee>
 		<div>
-			<img id="logo" src="assets/img/green_grass_logo.png"/>
+			<img id="logo" style="border-radius:100%;background:#fff;" src="assets/img/green_grass_logo.png"/>
 		</div>
 		<div>
 			<div class="idxbtn-cg">
